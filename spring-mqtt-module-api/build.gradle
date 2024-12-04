@@ -1,0 +1,9 @@
+dependencies {
+    implementation project(':spring-mqtt-module-core')
+    // dev-tools
+    developmentOnly 'org.springframework.boot:spring-boot-devtools'
+}
+
+bootJar {
+    enabled(true)
+}

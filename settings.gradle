@@ -1,0 +1,4 @@
+rootProject.name = 'spring-mqtt-module'
+
+include 'spring-mqtt-module-api'
+include 'spring-mqtt-module-core'
